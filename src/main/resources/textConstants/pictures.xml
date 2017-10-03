@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pictures>
+    <picture name="standard tariff">
+        <url>http://ukrposhta.ua/wp-content/uploads/2017/09/Upost_price_site-1560x2240_edit.jpg</url>
+    </picture>
+
+    <picture name="express tariff">
+        <url>http://ukrposhta.ua/wp-content/uploads/2017/09/Upost_price_site-1560x1080_edit.jpg</url>
+    </picture>
+
+    <picture name="smartBox tariff">
+        <url>http://ukrposhta.ua/wp-content/uploads/2017/09/Upost-SB_price_site_1560x1080.jpg</url>
+    </picture>
+</pictures>

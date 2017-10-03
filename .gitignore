@@ -1,0 +1,11 @@
+*.iml
+.idea
+classes
+lib
+web
+out
+target
+src/main/webapp/META-INF/MANIFEST.MF
+src/main/resources/dbConfig/chatbot_db.cfg.xml
+src/main/resources/dbConfig/merezha.cfg.xml
+src/main/resources/properties/application.properties

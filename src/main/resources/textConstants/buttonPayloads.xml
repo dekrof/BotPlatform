@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buttons>
+    <!--                                        Main Menu Buttons                                                   -->
+
+    <button name="menu tracking" type="text">
+        <caption>Трекінг</caption>
+    </button>
+
+    <button name="menu offices" type="text">
+        <caption>Відділення</caption>
+    </button>
+
+    <button name="menu tariffs" type="text">
+        <caption>Тарифи</caption>
+    </button>
+
+    <button name="menu help" type="text">
+        <caption>Допомога</caption>
+    </button>
+
+    <!--                                         Tariff section Buttons                                             -->
+
+    <button name="standard tariff" type="callback">
+        <caption>Стандарт</caption>
+        <callback>Стандарт</callback>
+    </button>
+
+    <button name="express tariff" type="callback">
+        <caption>Експрес</caption>
+        <callback>Експрес</callback>
+    </button>
+
+    <button name="smartBox tariff" type="callback">
+        <caption>SmartBox</caption>
+        <callback>SmartBox</callback>
+    </button>
+
+    <button name="universal tariff" type="callback">
+        <caption>Універсальні</caption>
+        <callback>Універсальні</callback>
+    </button>
+
+    <button name="international tariff" type="callback">
+        <caption>Міжнародні</caption>
+        <callback>Міжнародні</callback>
+    </button>
+
+    <button name="main menu" type="text">
+        <caption>Головне меню</caption>
+    </button>
+
+    <!--                                         Tariff Detail Buttons                                              -->
+
+    <button name="standard detail" type="url">
+        <caption>Переглянути на сайті</caption>
+        <description>Детальнішу інформацію можна знайти на сайті</description>
+        <url>https://goo.gl/uenbNU</url>
+    </button>
+
+    <button name="express detail" type="url">
+        <caption>Переглянути на сайті</caption>
+        <description>Детальнішу інформацію можна знайти на сайті</description>
+        <url>https://goo.gl/PYJaAN</url>
+    </button>
+
+    <button name="smartBox detail" type="url">
+        <caption>Переглянути на сайті</caption>
+        <description>Детальнішу інформацію можна знайти на сайті</description>
+        <url>https://goo.gl/E9RDMG</url>
+    </button>
+
+    <button name="universal detail" type="url">
+        <caption>Переглянути на сайті</caption>
+        <description>Інформацію про універсальні тарифи можна знайти на сайті, бо їх дуже багато в нас &#128522;</description>
+        <url>https://goo.gl/LPNT3F</url>
+    </button>
+
+    <button name="international detail" type="url">
+        <caption>Переглянути на сайті</caption>
+        <description>Інформацію про міжнародні тарифи можна знайти на сайті</description>
+        <url>https://goo.gl/jHBkLe</url>
+    </button>
+
+    <!--                                         Other Buttons                                                      -->
+
+    <button name="open site" type="url">
+        <caption>Перейти на сайт</caption>
+        <url>http://ukrposhta.ua/</url>
+    </button>
+
+    <button name="barcode details" type="url">
+        <caption>Детальніше тут</caption>
+        <url>http://ukrposhta.ua/ua/vidslidkuvati-forma-poshuku</url>
+    </button>
+
+    <button name="track start" type="callback">
+        <caption>Відстежувати</caption>
+        <callback>відстежувати %s</callback>
+    </button>
+
+    <button name="track stop" type="callback">
+        <caption>Відписатися</caption>
+        <callback>припинити %s</callback>
+    </button>
+
+    <button name="continue search" type="callback">
+        <caption>Продовжити пошук</caption>
+        <callback>відділення</callback>
+    </button>
+
+    <button name="main menu" type="callback">
+        <caption>Головне меню</caption>
+        <callback>Головне меню</callback>
+    </button>
+</buttons>
